@@ -5,7 +5,7 @@
     - Complier/Interpreter
     - Deep Learning Engineering for Production (MLOps)
 
-## **Abstraction is Good But Don't Forget Reality**
+> **Abstraction is Good But Don't Forget Reality** from CMU Introduction to Computer Systems
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
