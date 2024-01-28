@@ -23,6 +23,11 @@
 ### [MacGuider](https://www.macguider.io/) - Data Engineer
 *2023.05 - Present*
 
+### WorkUs - Backend Engineer 
+*2023.01 - 2023.03* 
+
+### MJU BUS - Backend Engineer 
+*2021.09 - 2023.06*
 
 ---
 ## Additional Activities
