@@ -1,16 +1,36 @@
-### Hi there 👋
+# About Me 
+---
 
-<!--
-**BEMELON/BEMELON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+### [NAVER](https://navercorp.com/) - Backend Engineer Intern
+ *2024.01 - Present*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Jaranda](https://jaranda.kr/) - Backend Engineer Intern
+*2022.03 - 2022.06*
+
+---
+
+## Education
+
+### [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - Computer Engineering 
+*2017.03 - 2024.02*
+
+---
+
+## Projects
+
+### [MacGuider](https://www.macguider.io/) - Data Engineer
+*2023.05 - Present*
+
+
+---
+## Additional Activities
+
+### [SW Maestro](https://www.swmaestro.org/sw/main/main.do) - 14th
+*2023.05 - 2023.11*
+
+### [42Seoul](https://42seoul.kr/seoul42/main/view) - Cadet 
+*2022.01 - 2022.11*
+ 
+---
