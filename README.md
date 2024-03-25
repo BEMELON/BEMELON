@@ -4,7 +4,7 @@
 ## Experience
 
 ### [NAVER](https://navercorp.com/) - Backend Engineer Intern
- *2024.01 - Present*
+ *2024.01 - 2024.03*
 
 ### [Jaranda](https://jaranda.kr/) - Backend Engineer Intern
 *2022.03 - 2022.06*
