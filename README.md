@@ -16,7 +16,7 @@ I am actively looking to engage with projects involving:
 *2024.01 - 2024.03 Backend Engineer Intern*
 - **Technologies Used**: `Nest.js`, `TypeORM`, `Typescript`, `MySQL`
 - **Project Involvement**: Participated in the initial phases of a new project, utilizing my knowledge of NestJs to set up robust backend services.
-- **Learning and Development**: Engaged in my first TypeScript project and enhanced my backend skills by studying the book [Modern-Javascript-Deep-Dive]([https://example.com/blog-link](https://blog.bemelon.me/book/modern-javascript/about)), which provided a deep dive into advanced JavaScript concepts.
+- **Learning and Development**: Engaged in my first TypeScript project and enhanced my backend skills by studying the book [Modern-Javascript-Deep-Dive](https://blog.bemelon.me/book/modern-javascript/about), which provided a deep dive into advanced JavaScript concepts.
 
 
 ### [Jaranda](https://jaranda.kr/) 
