@@ -7,9 +7,8 @@ Interested in collaborating? Feel free to [email me](mailto:dodo@bemelon.me) or 
 
 ## 🔍 Interested In
 I am actively looking to engage with projects involving:
-1. **Kotlin Ecosystem**: I am fascinated by Kotlin's pragmatic approach to problem-solving in software engineering. I am eager to explore projects that utilize Kotlin for developing robust server-side applications, contributing to its vibrant ecosystem, and enhancing its tools and libraries.
-2. **Obsidian and Open Source Ecosystem**: As a strong supporter of open-source projects, I am particularly interested in tools that improve productivity and knowledge management, like Obsidian. I look forward to collaborating on projects aimed at expanding Obsidian's capabilities and integrating it with other open-source tools.  
-
+**Kotlin Ecosystem**: I'm currently immersed in learning Kotlin, a statically typed language that offers the flexibility of Python. I resonate with the diverse ecosystem Kotlin fosters and am eager to participate in various projects within this space.
+**Obsidian**: I'm inspired by Obsidian's philosophy and am actively using it to develop my own [wiki](https://blog.bemelon.me). I have a keen interest in the plugin ecosystem and am looking for projects to get involved with.
 
 ## 💼 Experience
 
