@@ -11,7 +11,7 @@ I am actively looking to engage with projects involving:
 2. **Obsidian and Open Source Ecosystem**: As a strong supporter of open-source projects, I am particularly interested in tools that improve productivity and knowledge management, like Obsidian. I look forward to collaborating on projects aimed at expanding Obsidian's capabilities and integrating it with other open-source tools.  
 
 
-## Experience
+## 💼 Experience
 
 ### [NAVER](https://navercorp.com/)
 *2024.01 - 2024.03 Backend Engineer Intern*
@@ -27,7 +27,7 @@ I am actively looking to engage with projects involving:
  - Gained substantial knowledge about Agile methodologies, which significantly contributed to my growth as a developer.
 
 
-## Education
+## 🎓  Education
 
 ### [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) 
 *2017.03 - 2024.02 B.S. in Computer Engineering* 
@@ -35,7 +35,8 @@ I am actively looking to engage with projects involving:
  - Teaching Assistant for System Programming and Artificial Intelligence courses.
  - Member of the Robotics Club, [RATS](https://github.com/RATS-make-robot). 
 
-## Projects
+
+## 📚 Projects
 
 ### [MacGuider](https://www.macguider.io/)
 *2023.05 - Present, Backend Engineer*
@@ -56,7 +57,7 @@ I am actively looking to engage with projects involving:
  - Developed an algorithm to predict the shuttle bus's location based on departure times, without GPS.
  - Operated the system for about 2 years, focusing on minimizing operational costs.
 
-## Additional Activities
+## 🌟 Additional Activities
 
 ### [SW Maestro](https://www.swmaestro.org/sw/main/main.do) 
 *2023.05 - 2023.11 14th*
