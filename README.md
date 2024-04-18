@@ -43,7 +43,7 @@ I am actively looking to engage with projects involving:
  - Conducted reverse engineering to devise a scraping strategy for used-item marketplaces like `중고나라`, `번개장터`, and `당근마켓`.
  - Developed a data pipeline using LangChain to categorize detailed specifications of MacBooks from various sellers' descriptions.
 
-### [WorkUs]([https://example.com](https://github.com/mayonnaise-workus/backend))
+### [WorkUs](https://github.com/mayonnaise-workus/backend)
 *2023.01 - 2023.03 Backend Engineer*
  - **Technologies Used**: `Java`, `Spring Boot`, `MySQL`, `AWS`, `JUnit`, `Notion`
  - Focused on rigorous test development throughout the project.
