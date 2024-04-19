@@ -8,7 +8,7 @@ Interested in collaborating? Feel free to [email me](mailto:dodo@bemelon.me) or 
 ## 🔍 Interested In
 I am actively looking to engage with projects involving:
 - **Kotlin Ecosystem**: I'm currently immersed in learning Kotlin, a statically typed language that offers the flexibility of Python. I resonate with the diverse ecosystem Kotlin fosters and am eager to participate in various projects within this space.
-- **Obsidian**: I'm inspired by Obsidian's philosophy and am actively using it to develop my own [wiki](https://blog.bemelon.me). I have a keen interest in the plugin ecosystem and am looking for projects to get involved with.
+- **Obsidian**: I'm inspired by [Obsidian's philosophy](https://obsidian.md/about) and am actively using it to develop my own [wiki](https://blog.bemelon.me). I have a keen interest in the plugin ecosystem and am looking for projects to get involved with.
 
 ## 💼 Experience
 
