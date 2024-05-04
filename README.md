@@ -2,7 +2,7 @@
 Hi there! I'm BEMELON, computer engineering graduate with a keen interest in backend engineering.
 I thrive on challenges, particularly those that expand my knowledge and involve innovative uses of technology to solve practical problems.
 
-Interested in collaborating? Feel free to [email me](mailto:dodo@bemelon.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/bemelon/).
+Feel free to [email me](mailto:dodo@bemelon.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/bemelon/).
 
 
 ## 🔍 Interested In
@@ -30,7 +30,6 @@ I am actively looking to engage with projects involving:
 
 ### [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) 
 *2017.03 - 2024.02 B.S. in Computer Engineering* 
- - Major GPA: 4.13/4.5
  - Teaching Assistant for System Programming and Artificial Intelligence courses.
  - Member of the Robotics Club, [RATS](https://github.com/RATS-make-robot). 
 
