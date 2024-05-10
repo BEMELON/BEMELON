@@ -11,6 +11,8 @@ I am actively looking to engage with projects involving:
 - **Obsidian**: I'm inspired by [Obsidian's philosophy](https://obsidian.md/about) and am actively using it to develop my own [wiki](https://blog.bemelon.me). I have a keen interest in the plugin ecosystem and am looking for projects to get involved with.
 
 ## 💼 Experience
+### [ABLY](https://a-bly.com)
+*2024.05 -  Backend Engineer Intern*
 
 ### [NAVER](https://navercorp.com/)
 *2024.01 - 2024.03 Backend Engineer Intern*
@@ -20,7 +22,7 @@ I am actively looking to engage with projects involving:
 
 
 ### [Jaranda](https://jaranda.kr/) 
-*2022.03 - 2022.06 Backend Engineer Intern*
+*2022.03 - 2022.06 Backend Engineer CO-OP*
  - **Technologies Used**: `Python`, `SqlAlchemy`
  - First development internship, where I developed features and resolved various bugs in a Python-based service.
  - Gained substantial knowledge about Agile methodologies, which significantly contributed to my growth as a developer.
@@ -36,7 +38,7 @@ I am actively looking to engage with projects involving:
 
 ## 📚 Projects
 
-### [MacGuider](https://www.macguider.io/)
+### [MacGuider](https://github.com/cofinder-team/Scrapy-Crawler)
 *2023.05 - Present, Backend Engineer*
  - **Technologies Used**: `Python`, `Scrapy`, `SqlAlchemy`, `ScrapyOps`, `AWS`, `LangChain/LangSmith`, `Postgresql`, `Linear`
  - Conducted reverse engineering to devise a scraping strategy for used-item marketplaces like `중고나라`, `번개장터`, and `당근마켓`.
