@@ -2,8 +2,6 @@
 Hi there! I'm BEMELON, computer engineering graduate with a keen interest in backend engineering.
 I thrive on challenges, particularly those that expand my knowledge and involve innovative uses of technology to solve practical problems.
 
-Feel free to [email me](mailto:dodo@bemelon.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/bemelon/).
-
 
 ## 🔍 Interested In
 I am actively looking to engage with projects involving:
