@@ -37,7 +37,7 @@ I am actively looking to engage with projects involving:
 ## 📚 Projects
 
 ### [MacGuider](https://github.com/cofinder-team/Scrapy-Crawler)
-*2023.05 - Present, Backend Engineer*
+*2023.05 - 2024.05, Backend Engineer*
  - **Technologies Used**: `Python`, `Scrapy`, `SqlAlchemy`, `ScrapyOps`, `AWS`, `LangChain/LangSmith`, `Postgresql`, `Linear`
  - Conducted reverse engineering to devise a scraping strategy for used-item marketplaces like `중고나라`, `번개장터`, and `당근마켓`.
  - Developed a data pipeline using LangChain to categorize detailed specifications of MacBooks from various sellers' descriptions.
