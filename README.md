@@ -10,7 +10,8 @@ I am actively looking to engage with projects involving:
 
 ## 💼 Experience
 ### [ABLY](https://a-bly.com)
-*2024.05 -  Backend Engineer Intern*
+*2024.05 -  Backend Engineer*
+
 
 ### [NAVER](https://navercorp.com/)
 *2024.01 - 2024.03 Backend Engineer Intern*
