@@ -6,7 +6,7 @@ Currently working with AI-powered services and always curious about new technolo
 - **Backend**: Python, Django, Java, Spring Boot
 - **AI/ML**: LLM APIs, LangChain
 - **Cloud**: AWS, Docker, K8s
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL
 
 ## 🔍 Currently exploring
 - **AI integrations** in real-world applications
