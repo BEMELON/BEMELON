@@ -15,7 +15,7 @@ Currently working with AI-powered services and always curious about new technolo
 - Building my own [knowledge base]([https://blog.bemelon.me](https://blog.naver.com/be-melon)) with Obsidian
 
 ## 💼 Experience
-**Backend Engineer** @ [ABLY](https://a-bly.com) *2024.05 - Current*  
+**Backend Engineer** @ [ABLY](https://a-bly.com) *2024.05 - 2026.08*  
 Working on AI-powered features and backend optimizations
 
 **Backend Engineer Intern** @ [NAVER](https://navercorp.com/) *2024.01 - 2024.03*  
