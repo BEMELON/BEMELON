@@ -15,8 +15,11 @@ Currently working with AI-powered services and always curious about new technolo
 - Building my own [knowledge base]([https://blog.bemelon.me](https://blog.naver.com/be-melon)) with Obsidian
 
 ## 💼 Experience
+**AI Application Engineer** @ [WEBTOON](https://webtoonscorp.com/) *2026.09 - current*  
+Building AI-powered applications
+
 **Backend Engineer** @ [ABLY](https://a-bly.com) *2024.05 - 2026.08*  
-Working on AI-powered features and backend optimizations
+Built AI-powered features and optimized backend performance
 
 **Backend Engineer Intern** @ [NAVER](https://navercorp.com/) *2024.01 - 2024.03*  
 Built backend services with NestJS and TypeScript
